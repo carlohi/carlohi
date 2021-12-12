@@ -5,8 +5,8 @@
 I am a full-stack software engineer. I love programming, technology and traveling.
 
 **Talking about Personal Stuffs:**
-- 👨🏻‍💻 I’m currently working on something cool in [Altiuz Chile](https://altiuz.cl/);
-- 🚀 I am currently specializing in advanced React native;
+- 👨🏻‍💻 I’m currently working on something cool at [Globant](https://www.globant.com/);
+- 🚀 I am currently specializing in cloud services;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: carlos.osses@protonmail.com;
 <!--📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->

@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Carlos Osses](http://cosses.cl/) from Chile! 
+### Hi there 👋 I am [Carlos Osses](http://cosses.dev/) from Chile! 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-osses-lizana-316b01103/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://cosses.cl)
 </br>
